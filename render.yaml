@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: go-pokemon-stream
+    env: go
+    plan: free
+    buildCommand: |
+      if [ ! -f go.mod ]; then
+        go mod init pokemon-stream
+      fi
+      go mod tidy
+      go build -o pokemon-stream .
+    startCommand: ./pokemon-stream
